@@ -1,1 +1,8 @@
-# terraform-aws-vpc5
+# Terraform AWS VPC Module
+
+### Usage:
+```
+module "vpc" {
+    source = ""
+}
+```
